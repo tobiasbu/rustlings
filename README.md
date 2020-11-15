@@ -1,3 +1,11 @@
+# Reminder for myself:
+
+The `solved` branch contains the solved exercises. Each resolved exercise will have a specific commit.
+
+Last edit: 11/15/2020
+
+---
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-68-orange.svg?style=flat-square)](#contributors-)
